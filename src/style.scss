@@ -1,0 +1,13 @@
+.circle-empty, .circle-full {
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background-color: transparent;
+  border: 1px solid var(--wp--preset--color--formo-blue);
+  margin-right: 6px;
+
+}
+.circle-full {
+  background-color: var(--wp--preset--color--formo-blue);
+}
